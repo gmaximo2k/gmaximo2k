@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Maximo</h1>
 <h3 align="center">A machine learning enthusiast aiming to improve my skills and the world that surrounds me</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6b/00/39/6b0039ec6d675b764f9b9c013450fbcb.gif”>
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmaximo2k&label=Profile%20views&color=0e75b6&style=flat" alt="gmaximo2k" /> </p>
 
